@@ -2,7 +2,6 @@
 Problem Statement
 
 Write a program that checks whether a given number is:
-
 Even, or
 Odd
 """
