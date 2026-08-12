@@ -17,4 +17,3 @@ for i in range(n):
     a = b
     b = c
     
-
