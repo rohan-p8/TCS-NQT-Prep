@@ -3,7 +3,7 @@ Question 4: Fibonacci Series
 """
 """
 In the Fibonacci series, every new number is the sum of the 
-previous two numbers.
+previous two numbers. 
 """
 n = int(input("Enter the number of terms: "))
 
