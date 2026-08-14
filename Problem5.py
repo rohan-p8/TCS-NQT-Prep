@@ -10,6 +10,7 @@ The idea is simple:
 -Add it to a new number.
 -Remove the last digit from the original number.
 -Repeat until the original number becomes 0.
+
 """
 
 n = int(input("Enter a number: "))
