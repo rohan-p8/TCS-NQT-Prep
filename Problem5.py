@@ -4,7 +4,9 @@ Write a program to reverse the digits of a given number.
 """
 2. Logic
 
-The idea is simple:
+The idea is simple: using a while loop, we can extract the last digit of 
+the number and build a new number in reverse order. 
+The steps are as follows:
 
 -Take the last digit of the number.
 -Add it to a new number.
