@@ -24,5 +24,4 @@ while n > 0:
     reverse = (reverse * 10) + last_digit
     n = n // 10
 
-
 print("Reversed number:", reverse)
